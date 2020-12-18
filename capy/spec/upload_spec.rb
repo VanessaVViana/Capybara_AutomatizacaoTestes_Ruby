@@ -13,8 +13,6 @@ describe 'Upload', :upload do
         click_button 'file-submit'
     end
 
-    sleep 4
-
     after(:each) do
     end
 
